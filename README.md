@@ -3,7 +3,7 @@
 
 <body>
     <p align="center">
-        <img src="live_streaming_daily.gif" alt="Miguel Bedoya - Software Engineering Student" class="banner">
+        <img src="file:///C:/Users/mkrac/Downloads/live%20streaming%20daily.gif" alt="Miguel Bedoya - Software Engineering Student" class="banner">
     </p>
     <h1 align="center">Hi 👋 I'm Miguel Bedoya</h1>
     <h3 align="center">Software engineering student and passionate about the front-end, from Colombia!</h3>
