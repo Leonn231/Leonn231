@@ -16,6 +16,7 @@
         <li>👨‍💻 Linkedin profile <a href="https://www.linkedin.com/in/miguel-bedoya-león-725082343">LinkedIn</a></li>
         <li>📫 How to reach me: <b>bedoyaleon231@gmail.com</b></li>
         <li>⚡ Phone contact: <a href="tel:+573104693755">+57 3104693755</a></li>
+        <li>⚡ Phone contact: <a href="tel:+573023727587">+57 3023727587</a></li>
         <li>⚡ Fact: <b>I like teamwork preferably</b></li>
     </ul>
 </body>
