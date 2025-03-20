@@ -1,9 +1,9 @@
 <!-- GitHub Profile README -->
 
-<body>
-    <p align="center">
-        <img src="live%20streaming%20daily.gif" alt="Miguel Bedoya - Software Engineering Student" class="banner">
-    </body>
+<p align="center">
+    <img src="live%20streaming%20daily.gif" alt="Miguel Bedoya - Software Engineering Student" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Miguel Bedoya</h1>
 <h3 align="center">Software Engineering Student & Passionate Front-End Developer from Colombia! 🚀</h3>
 
@@ -54,14 +54,11 @@
 
 <h3 align="left">🎶 Spotify Now Playing:</h3>
 <p align="center">
-    <a href="https://open.spotify.com/user/duot1ky8cpoh1og1bfnyoer3b" target="_blank">
-        <img src="https://novatorem-two.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing">
-    </a>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=duot1ky8cpoh1og1bfnyoer3b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
 
-
-<h3 align="left">Gif</h3>
 <p align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlbDQ3ejV0MDYxbGdwc2N1amgwM200OWw4bWx5bHF2NzV3OTZqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRoLGgwE4xTQYTxyJg/giphy.gif" width="500" />
 </p>
+
 
