@@ -1,9 +1,9 @@
 <!-- GitHub Profile README -->
 
-<p align="center">
-    <img src="live%20streaming%20daily.gif" alt="Miguel Bedoya - Software Engineering Student" width="600">
-</p>
-
+<body>
+    <p align="center">
+        <img src="live%20streaming%20daily.gif" alt="Miguel Bedoya - Software Engineering Student" class="banner">
+    </body>
 <h1 align="center">Hi 👋, I'm Miguel Bedoya</h1>
 <h3 align="center">Software Engineering Student & Passionate Front-End Developer from Colombia! 🚀</h3>
 
@@ -68,8 +68,3 @@
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlbDQ3ejV0MDYxbGdwc2N1amgwM200OWw4bWx5bHF2NzV3OTZqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRoLGgwE4xTQYTxyJg/giphy.gif" width="500" />
 </p>
 
-
-
-<p align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlbDQ3ejV0MDYxbGdwc2N1amgwM200OWw4bWx5bHF2NzV3OTZqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRoLGgwE4xTQYTxyJg/giphy.gif" width="500" />
-</p>
