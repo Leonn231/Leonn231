@@ -54,7 +54,7 @@
 
 <h3 align="left">🔥 GitHub Activity Graph:</h3>
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonn231&theme=radical" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonn231&theme=github" alt="GitHub Activity Graph" />
 </p>
 
 <h3 align="left">🚀 Featured Projects:</h3>
