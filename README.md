@@ -33,9 +33,8 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,nodejs,react,spring" />
-</p>
-
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,nodejs,intellij,vscode" />
+    
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Leonn231&show_icons=true&theme=radical" alt="GitHub Stats" />
