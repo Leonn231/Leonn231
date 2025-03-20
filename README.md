@@ -15,7 +15,7 @@
     <li>🔗 Connect with me on <a href="https://www.linkedin.com/in/miguel-bedoya-le%C3%B3n-725082343">LinkedIn</a></li>
     <li>📧 Contact me: <b>bedoyaleon231@gmail.com</b></li>
     <li>📞 Phone: <a href="tel:+573104693755">+57 3104693755</a> | <a href="tel:+573023727587">+57 3023727587</a></li>
-    <li>⚡ Fun fact: <b>I prefer teamwork!</b></li>
+    <li>⚡ Fun fact: <b>I love singing!</b></li>
 </ul>
 
 <h3 align="left">🌍 Connect with me:</h3>
