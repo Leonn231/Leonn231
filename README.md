@@ -33,15 +33,39 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,nodejs" />
+</p>
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Leonn231&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonn231&theme=radical" alt="GitHub Streak" />
+</p>
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Leonn231&theme=radical" alt="GitHub Trophies" />
+</p>
+
+<h3 align="left">🔥 GitHub Activity Graph:</h3>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonn231&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+<h3 align="left">📌 Featured Projects:</h3>
+<ul>
+    <li>🚀 <a href="https://github.com/Leonn231/project1">Project 1</a> - A brief description of what this project does.</li>
+    <li>🎨 <a href="https://github.com/Leonn231/project2">Project 2</a> - Another interesting project showcasing skills.</li>
+</ul>
+
+<h3 align="left">🎶 Spotify Now Playing:</h3>
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+</p>
+
+<h3 align="left">🚀 Fun GIF:</h3>
+<p align="center">
+    <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500" />
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
