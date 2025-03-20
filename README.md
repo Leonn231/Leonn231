@@ -54,7 +54,7 @@
 
 <h3 align="left">🎶 Spotify Now Playing:</h3>
 <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=duot1ky8cpoh1og1bfnyoer3b&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-now-playing-kittinan.vercel.app/api/spotify" alt="Spotify Now Playing" />
 </p>
 
 <h3 align="left">Gif</h3>
