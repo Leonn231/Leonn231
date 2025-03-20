@@ -33,7 +33,7 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,nodejs,react,spring" />
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
@@ -47,9 +47,26 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Leonn231&theme=radical" alt="GitHub Trophies" />
 </p>
 
+<h3 align="left">📈 Most Used Languages:</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonn231&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
 <h3 align="left">🔥 GitHub Activity Graph:</h3>
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonn231&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+<h3 align="left">🚀 Featured Projects:</h3>
+<p align="center">
+    <a href="https://github.com/Leonn231/proyecto-aiag">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leonn231&repo=proyecto-aiag&theme=radical" alt="Project AIAG" />
+    </a>
+</p>
+
+<h3 align="left">💡 Motivational Quote:</h3>
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
 </p>
 
 <p align="center">
