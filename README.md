@@ -54,10 +54,11 @@
 
 <h3 align="left">🎶 Spotify Now Playing:</h3>
 <p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=duot1ky8cpoh1og1bfnyoer3b&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=duot1ky8cpoh1og1bfnyoer3b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
+    <a href="https://open.spotify.com/user/duot1ky8cpoh1og1bfnyoer3b" target="_blank">
+        <img src="https://novatorem-two.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing">
     </a>
 </p>
+
 
 <h3 align="left">Gif</h3>
 <p align="center">
