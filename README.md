@@ -9,7 +9,7 @@
     <h3 align="center">Software engineering student and passionate about the front-end, from Colombia!</h3>
 
   <ul>
-        <li>🔭 I’m currently working on <a href="https://github.com/Leonn231/ProjectoFinalapp">personal project</a></li>
+        <li>🔭 I’m currently working on <a href="https://github.com/Leonn231/proyecto-aiag">project AIAG</a></li>
         <li>👯 I’m looking to collaborate on <b>video games projects</b></li>
         <li>🤝 I’m looking for help with <b>front end projects</b></li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/Leonn231?tab=repositories">GitHub Repositories</a></li>
