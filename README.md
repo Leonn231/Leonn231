@@ -52,11 +52,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonn231&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
-<h3 align="left">🎶 Spotify Now Playing:</h3>
-<p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=duot1ky8cpoh1og1bfnyoer3b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
-</p>
-
 <p align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlbDQ3ejV0MDYxbGdwc2N1amgwM200OWw4bWx5bHF2NzV3OTZqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRoLGgwE4xTQYTxyJg/giphy.gif" width="500" />
 </p>
