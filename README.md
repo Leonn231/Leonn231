@@ -9,6 +9,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=F75C7E&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Passionate+About+Tech!" alt="Typing SVG" />
 </p>
 
+<hr>
+
 <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/Leonn231/proyecto-aiag">Project AIAG</a></li>
     <li>👯 I’m looking to collaborate on <b>Video Game Projects</b></li>
@@ -19,6 +21,8 @@
     <li>📞 Phone: <a href="tel:+573104693755">+57 3104693755</a> | <a href="tel:+573023727587">+57 3023727587</a></li>
     <li>⚡ Fun fact: <b>I love singing!</b></li>
 </ul>
+
+<hr>
 
 <h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
@@ -33,16 +37,22 @@
     </a>
 </p>
 
+<hr>
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,nodejs,vscode" />
     <img src="https://www.appverticals.com/blog/wp-content/uploads/2020/05/IntelliJ-Logo.jpg" width="48" height="48" />
 </p>
 
+<hr>
+
 <h3 align="left">🏆 GitHub Achievements:</h3>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Leonn231&theme=radical" alt="GitHub Trophies" />
 </p>
+
+<hr>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
@@ -50,10 +60,14 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonn231&theme=radical" alt="GitHub Streak" />
 </p>
 
+<hr>
+
 <h3 align="left">📈 Most Used Languages:</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonn231&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
+
+<hr>
 
 <h3 align="left">🚀 Featured Projects:</h3>
 <p align="center">
@@ -62,24 +76,29 @@
     </a>
 </p>
 
+<hr>
+
 <h3 align="left">💡 Motivational Quote:</h3>
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
 </p>
+
+<hr>
 
 <h3 align="left">🔥 GitHub Activity Graph:</h3>
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonn231&theme=github" alt="GitHub Activity Graph" />
 </p>
 
+<hr>
+
 <h3 align="left">📌 Latest GitHub Contributions:</h3>
 <p align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=Leonn231&limit=5&theme=radical" alt="GitHub Contributions" />
 </p>
 
+<hr>
+
 <p align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlbDQ3ejV0MDYxbGdwc2N1amgwM200OWw4bWx5bHF2NzV3OTZqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRoLGgwE4xTQYTxyJg/giphy.gif" width="500" />
 </p>
-
-
-
