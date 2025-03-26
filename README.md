@@ -1,7 +1,5 @@
-<!-- GitHub Profile README -->
-
 <p align="center">
-    <img src="https://github.com/Leonn231/tu-repo/blob/main/banner.png" alt="Miguel Bedoya - Software Engineering Student" width="100%">
+    <img src="live%20streaming%20daily.gif" alt="Miguel Bedoya - Software Engineering Student" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Miguel Bedoya</h1>
