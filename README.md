@@ -33,7 +33,9 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,nodejs,Intellij,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,nodejs,vscode" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width="48" height="48" />
+
 </p>
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
