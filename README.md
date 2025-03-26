@@ -33,7 +33,7 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,nodejs,intellij,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,nodejs,Intellij,vscode" />
 </p>
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
