@@ -1,11 +1,15 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-    <img src="live%20streaming%20daily.gif" alt="Miguel Bedoya - Software Engineering Student" width="100%">
+    <img src="https://github.com/Leonn231/tu-repo/blob/main/banner.png" alt="Miguel Bedoya - Software Engineering Student" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Miguel Bedoya</h1>
 <h3 align="center">Software Engineering Student & Passionate Front-End Developer from Colombia! 🚀</h3>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=F75C7E&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Passionate+About+Tech!" alt="Typing SVG" />
+</p>
 
 <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/Leonn231/proyecto-aiag">Project AIAG</a></li>
@@ -33,29 +37,24 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,nodejs,vscode" />
-<img src="https://www.appverticals.com/blog/wp-content/uploads/2020/05/IntelliJ-Logo.jpg" width="48" height="48" />
-
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,git,nodejs,vscode" />
+    <img src="https://www.appverticals.com/blog/wp-content/uploads/2020/05/IntelliJ-Logo.jpg" width="48" height="48" />
 </p>
+
+<h3 align="left">🏆 GitHub Achievements:</h3>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Leonn231&theme=radical" alt="GitHub Trophies" />
+</p>
+
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Leonn231&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonn231&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Leonn231&theme=radical" alt="GitHub Trophies" />
-</p>
-
 <h3 align="left">📈 Most Used Languages:</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonn231&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
-<h3 align="left">🔥 GitHub Activity Graph:</h3>
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonn231&theme=github" alt="GitHub Activity Graph" />
 </p>
 
 <h3 align="left">🚀 Featured Projects:</h3>
@@ -70,8 +69,19 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
 </p>
 
+<h3 align="left">🔥 GitHub Activity Graph:</h3>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonn231&theme=github" alt="GitHub Activity Graph" />
+</p>
+
+<h3 align="left">📌 Latest GitHub Contributions:</h3>
+<p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Leonn231&limit=5&theme=radical" alt="GitHub Contributions" />
+</p>
+
 <p align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlbDQ3ejV0MDYxbGdwc2N1amgwM200OWw4bWx5bHF2NzV3OTZqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRoLGgwE4xTQYTxyJg/giphy.gif" width="500" />
 </p>
+
 
 
